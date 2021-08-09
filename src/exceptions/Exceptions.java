@@ -20,7 +20,8 @@ public class Exceptions {
 			System.out.println("Will Executed");
 		}
 	
-		
+		System.out.println("one");
+		System.out.println("Two");
 	}
 	
 
